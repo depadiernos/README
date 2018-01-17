@@ -22,6 +22,7 @@ A short manual for how depadiernos works.
 
 - If you want me to do something, ping me and put it down on my calendar. If I don't get a ping, I blissfully unaware of calendar events until the set time.
 - I like honest and thoughtful feedback. I'd rather hear that I sucked at something than not hear about it at all. I take criticism well. I also like a compliment every so often. :)
+- Don't hesitate to correct me. I never take corrections or criticism negatively. Ever.
 
 ## What are your pet peeves?
 
