@@ -1,5 +1,5 @@
-# owners_manual
-A short manual for how depadiernos works.
+# Dennis' README
+A short document for how depadiernos works.
 
 ## What do you want us to know about your communication style?
 
